@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/gimhyeon-u/Desktop/xerath",
-      "program": "/Users/gimhyeon-u/Desktop/xerath/build/Debug/outDebug"
+      "cwd": "/Users/gimhyeon-u/Desktop/3",
+      "program": "/Users/gimhyeon-u/Desktop/3/build/Debug/outDebug"
     }
   ]
 }
